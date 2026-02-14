@@ -1,4 +1,4 @@
-![App Screenshot](./frontend/public/j.png)
+![App Screenshot](frontend/public/k.png)
 🌟 Highlights
 
 🌐 Real-Time Messaging with typing indicators & emoji reactions

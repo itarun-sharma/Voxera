@@ -88,6 +88,7 @@ Stream (Chat & Video APIs)
               VITE_STREAM_API_KEY=your_stream_api_key
 
 🔧 Running the Project Locally
+
 1️⃣ Run Backend
              
               cd backend
